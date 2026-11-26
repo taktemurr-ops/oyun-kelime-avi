@@ -5,6 +5,8 @@ import 'package:flutter/material.dart';
 import 'package:kelime_motoru/kelime_motoru.dart';
 import 'package:studio_core/app/game_api.dart';
 
+part 'oyun_kelime_avi_tema.dart';
+
 const kelimeAviId = 'oyun-kelime-avi';
 
 final kelimeAviRules = wordRulesFor('oyun-kelime-avi', 'kelime-avi');
